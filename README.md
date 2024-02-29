@@ -23,7 +23,7 @@ Faculty Hub is a web application designed to serve as a centralized faculty dire
 - Register page
 ![Screenshot (615)](https://github.com/CodeWithTarunika/FacultyHub/assets/124036153/2f3848db-e96b-4593-8ee9-9f8fe22b1f6a)
 
-- Faulty Profile page
+- Faculty Profile page
 ![Screenshot (616)](https://github.com/CodeWithTarunika/FacultyHub/assets/124036153/9a9070ef-dbbf-40f1-ae43-75d64820cb99)
 
 
