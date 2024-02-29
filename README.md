@@ -9,6 +9,10 @@ Faculty Hub is a web application designed to serve as a centralized faculty dire
 - Profile Management: Authenticated users can conveniently update their information, ensuring accurate and up-to-date details in the directory.
 - Registration System: New staff members can register and create their profiles, contributing to the continuous growth of the directory.
 
+## Exeution
+- open the terminal/command prompt inside the project path
+- run : python app.py 
+
 ## Web page
 - Home page
 ![Screenshot (613)](https://github.com/CodeWithTarunika/FacultyHub/assets/124036153/f6cab7f6-215e-4953-ba6b-1c6ea379dc83)
