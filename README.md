@@ -16,11 +16,14 @@ Faculty Hub is a web application designed to serve as a centralized faculty dire
 ## Web page
 - Home page
 ![Screenshot (613)](https://github.com/CodeWithTarunika/FacultyHub/assets/124036153/f6cab7f6-215e-4953-ba6b-1c6ea379dc83)
--Login page
+
+- Login page
 ![Screenshot (614)](https://github.com/CodeWithTarunika/FacultyHub/assets/124036153/7685926e-2df1-4792-a9c8-b96b159c1d8b)
--Register page
+
+- Register page
 ![Screenshot (615)](https://github.com/CodeWithTarunika/FacultyHub/assets/124036153/2f3848db-e96b-4593-8ee9-9f8fe22b1f6a)
--Faulty Profile page
+
+- Faulty Profile page
 ![Screenshot (616)](https://github.com/CodeWithTarunika/FacultyHub/assets/124036153/9a9070ef-dbbf-40f1-ae43-75d64820cb99)
 
 
